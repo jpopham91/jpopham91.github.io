@@ -59,14 +59,4 @@ social:
 #    img: client01.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "A natural problem solver with excellent quantitative and analytical talent. Possesses a strong competitive drive and will consistently aim for improvement in anyskill or discipline. Deeply passionate about the tools, techniques, and processes used for extracting knowledge and understanding from data. Enthusiastic and committed to beginning a career in the challenging and rewarding field of data science and analytics."
-
-# Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: Keep it up. Would love to see more stuff like this.
-    author: 
-    position: 
-testimonial:
-    message: Very cool! I'd love to see more of this if you have a blog post about it.
-    author: 
-    position: 
+about: "A physicist turned data scientist, using a foundation in math, stats, and computer science to extract knowledge from 1s and 0s."
