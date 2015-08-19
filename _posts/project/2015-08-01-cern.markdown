@@ -1,0 +1,12 @@
+---
+layout: project
+title:  "Searching for the τ → 3μ Decay"
+date:   2015-08-01 00:00:00
+author: Jake
+categories:
+- project
+img: CERN.png
+---
+####title
+
+Text
