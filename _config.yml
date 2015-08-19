@@ -2,7 +2,7 @@
 
 # Site settings
 title: JPOPHAM91.GITHUB.IO
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "My personal website, serving as a blog, resume, and portfolio."
 analytics: UA-66507903-1
 baseurl: "" #important: start with /
 url: "http://jpopham91.github.io"
@@ -67,10 +67,10 @@ social:
 #    img: client01.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "A natural problem solver with excellent quantitative and analytical talent. Possesses a strong competitive drive and will consistently aim for improvement in anyskill or discipline. Deeply passionate about the tools, techniques, and processes used for extracting knowledge and understanding from data. Enthusiastic and committed to beginning a career in the challenging and rewarding field of data science and analytics."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Jake Popham
-    position: .
+    message: 
+    author: 
+    position: 
