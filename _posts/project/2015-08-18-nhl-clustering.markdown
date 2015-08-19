@@ -6,10 +6,7 @@ author: Jake Popham
 categories:
 - project
 tags:
-- nhl
-- clustering
-- visualizaton
-- interactive
+- nhl, clustering, visualizaton, interactive
 img: nhl_clustering.jpg
 ---
 ####Clustering NHL Players
