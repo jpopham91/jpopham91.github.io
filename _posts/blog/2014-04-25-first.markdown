@@ -5,6 +5,8 @@ date: 2015-08-20 12:12:23
 author: Jake
 categories:
 - blog
+img: first.jpg
+thumb: first.jpg
 ---
 
 I'm in the process of porting all of my work into github pages and jekyll.  Knowing very little about web <i>design</i>, I've decided to fork an [existing template](https://github.com/st4ple/solid-jekyll) that I really liked and go from there.  All I had to strip out most of the "business" content like clients and testimonials, and update the config files with my own information.
