@@ -16,10 +16,10 @@ colors:  #in hex code if not noted else
   primary: "#80c040" #"#F70031" 
   primary_rgb: "128,192,64" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
   secondary: "#404040" #"#33004D"
-  link: "#428bca"
+  link: "#80c040"
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
+  footer_content: "#c0c0c0"
   
   
 ### CONTACT SETTINGS ###
@@ -28,7 +28,9 @@ colors:  #in hex code if not noted else
 social:
   - title: github
     url: https://github.com/jpopham91
-    
+  - title: linkedin
+    url: https://www.linkedin.com/in/jacobpopham
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 #address:
 #  - lines: 
