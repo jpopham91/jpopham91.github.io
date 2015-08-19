@@ -1,0 +1,12 @@
+---
+layout: project
+title:  "Avito Context Ad Clicks"
+date:   2015-07-28 00:00:00
+author: Jake
+categories:
+- project
+img: avito.png
+---
+####title
+
+Text

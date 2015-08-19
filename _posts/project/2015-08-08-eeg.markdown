@@ -1,0 +1,12 @@
+---
+layout: project
+title:  "Grasp and Lift EEG Detection"
+date:   2015-07-28 00:00:00
+author: Jake
+categories:
+- project
+img: eeg.png
+---
+####title
+
+Text
