@@ -71,6 +71,10 @@ about: "A natural problem solver with excellent quantitative and analytical tale
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: 
+    message: Keep it up. Would love to see more stuff like this.
+    author: 
+    position: 
+testimonial:
+    message: Very cool! I'd love to see more of this if you have a blog post about it.
     author: 
     position: 
