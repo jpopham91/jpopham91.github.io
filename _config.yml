@@ -61,6 +61,8 @@ social:
 clients:
   - name: business insider
     img: business_insider.png
+  - name: aol
+    img: aol.png
   - name: dail mail
     img: daily_mail.png
 

@@ -10,7 +10,7 @@ permalink: /
             <div class="col-md-4">
                 <i class="fa fa-code"></i>
                 <h4>Source Code</h4>
-                <p>Sharing is caring. All of my personal work is open source. Whether you want to contribute to a project, use it something new, or just curious how I did something, you are free to access whatever you like.</p>
+                <p>Sharing is caring. All of my personal work is open source. Whether you want to contribute to a project, use it for something new, or just curious how I did something, you are free to access whatever you like.</p>
                 <p><a href="https://github.com/jpopham91" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
@@ -37,7 +37,7 @@ permalink: /
         <div class="col-lg-6">
             <h4>Frequently Asked</h4>
             <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
+            {% for post in site.categories['question'] %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
             {% endfor %}
         </div>
@@ -45,9 +45,9 @@ permalink: /
         <div class="col-lg-6">
             <h4>Latest Posts</h4>
             <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
+            {% for post in site.categories['blog'] limit:5 %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-            {% endfor %} 
+            {% endfor %}
         </div>
 
     </div><! --/row -->
