@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analyzing the Ashley Madison Leak"
-date: 2015-08-20 00:00:00
+date: 2015-08-22 20:00:00
 author: Jake
 categories:
 - blog
