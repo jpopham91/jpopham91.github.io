@@ -62,7 +62,7 @@ clients:
   - name: business insider
     img: business_insider.png
   - name: dail mail
-    img: daily_mail.jpg
+    img: daily_mail.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "A physicist turned data scientist, using a foundation in math, stats, and computer science to extract knowledge from 1s and 0s."
