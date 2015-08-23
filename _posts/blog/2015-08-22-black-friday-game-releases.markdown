@@ -6,7 +6,7 @@ author: Jake
 categories:
 - blog
 img: none.png
-thumb: analytics.png
+thumb: bar.png
 ---
 
 It shouldn't really come as a surprise, but apparently companies like having on shelves for the the biggest shopping day of the year.  More than $50 billion was spend during Black Friday weekend in 2014, which is generally considered to be the start of the Christmas shopping season.
