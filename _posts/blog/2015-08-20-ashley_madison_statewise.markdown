@@ -5,8 +5,8 @@ date: 2015-08-22 20:00:00
 author: Jake
 categories:
 - blog
-img: github.pages.jpg
-thumb: GitHub-Mark.png
+img: none.png
+thumb: none.png
 ---
 
 The recent release of AshleyMadison.com user's data has taken the internet by storm.  While many are interested in digging up the dirty secrets of friends, neighbors, and significant others, some of us are just interested in what we can learn from the data.
