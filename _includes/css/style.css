@@ -346,8 +346,8 @@ a:focus {
 #cwrap {
 	background: #ffffff;
 	margin-top: 0px;
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-top: 20px;
+	padding-bottom: 50px;
 	text-align:center;
 
 }
