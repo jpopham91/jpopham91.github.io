@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: JPOPHAM91.GITHUB.IO
+title: poph.am
 description: "My personal website, serving as a blog, resume, and portfolio."
 analytics: UA-66507903-1
 baseurl: "" #important: start with /
-url: "http://jpopham91.github.io"
+url: "http://poph.am"
 
 # Build settings
 markdown: kramdown
