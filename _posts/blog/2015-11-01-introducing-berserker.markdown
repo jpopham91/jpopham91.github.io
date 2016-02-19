@@ -6,7 +6,7 @@ author: Jake
 categories:
 - blog
 img: none.png
-thumb: bar.png
+thumb: berserker.png
 ---
 
 If you compete in or follow the machine learning competitions on [kaggle](http://kaggle.com), then by now you're probably familiar with the concept of ensembling.  Almost without exception, the winners of each competition are combining a variety of estimators into a single, more powerful model.  It doesn't matter what kind of data is given, or whether regression or classification is required, there isn't a single machine learning algorithm that can compete with an ensemble. Even *if* a shiny new algorithm were published tomorrow that was objectively better than random forests, gradient boosting, and the like - you could just add it to you ensemble, making it even better.
