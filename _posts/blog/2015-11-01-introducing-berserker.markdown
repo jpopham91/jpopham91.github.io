@@ -45,6 +45,7 @@ model.add_node(LinearRegression(), name='Lin Reg Meta Estimator')
 
 preds = model.predict(X_tst)
 ~~~
+{: .language-python}
 
 <pre>
 Level 1 Estimators (12 features)     Validation Error
