@@ -27,8 +27,7 @@ You can get all of the details in the readme, but here are a few key features:
 
 Finally, I'll leave you with the source code and output for a demo using the popular Boston housing prices dataset.  With only a few lines of code, you can create an ensemble (of ensembles) which outperforms the vanilla random forest and GBT in scikit-learn.
 
-{% highlight python %}
-```python
+~~~python
 from berserker.ensemble import Ensemble
 from berserker.layers import Layer
 from berserker.nodes import Node
@@ -45,8 +44,7 @@ model.add_layer()
 model.add_node(LinearRegression(), name='Lin Reg Meta Estimator')
 
 preds = model.predict(X_tst)
-```
-{% endhighlight %}
+~~~
 
 <pre>
 Level 1 Estimators (12 features)     Validation Error
